@@ -1,7 +1,4 @@
 import streamlit as st
-import camelot
-import base64
-import uuid
 import pdfplumber
 import pandas as pd
 
